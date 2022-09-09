@@ -7,7 +7,7 @@ Student, Web Developer and Designer.
 Even though I enrolled into University for Computer Science, my true journey really started on March, 2022. This is where I was exposed to the Web Development world and felt like I've finally found something that I want to put all my energy into. Ever since that day, I've continuously been learning new technologies, improving my knowledge of the ones I already knew, and planning ahead for the ones that I'm interested in (looking at you NextJS)!
 
 *   🌍  I'm based in London
-*   🖥️  See my portfolio at [here!](http://abdallahkalenga.netlify.app)
+*   🖥️  See my portfolio at [here!](https://abdallahkalenga.netlify.app/)
 *   ✉️  You can contact me at [abdallahkalenga1689@gmail.com](mailto:abdallahkalenga1689@gmail.com)
 
 *   🚀  I'm currently working on Konnect, a chat app that utilises Firebase as it's backend, Zustand for state management and React for it's frotnend!
